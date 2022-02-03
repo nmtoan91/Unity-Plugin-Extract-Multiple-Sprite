@@ -7,7 +7,7 @@ This tool supports to extract the 2D multiple-sprite sheet in Unity3D into separ
 2. Select "+" button, then choose "Add package from git URL" 
 ![alt text](https://github.com/nmtoan91/Unity-Plugin-Extract-Multiple-Sprite/blob/master/img/10.png?raw=true)
 
-3. Paste the following link: <br />https://github.com/nmtoan91/Unity-Plugin-Extract-Multiple-Sprite.git?path=/Assets/MulipleSpriteExtractTool
+3. Paste the following link: <br />https://github.com/nmtoan91/Unity-Plugin-Extract-Multiple-Sprite.git?path=/Assets/MultiSpriteExtractTool
 
 ## How to use the plugin
 1. Change your Sprite Mode of your sprite sheet into Multiple.<br />
