@@ -1,0 +1,15 @@
+{
+  "name": "com.stgame.multiplespriteextractor",
+  "displayName": "MultipleSpriteExtractor",
+  "version": "0.1.2",
+  "unity": "2020.3",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "author": {
+    "name": "toanstt",
+    "url": "https://github.com/nmtoan91"
+  },
+  "type": "tool",
+  "description": "Library for extract multiple sprite to seprated sprites"
+}
