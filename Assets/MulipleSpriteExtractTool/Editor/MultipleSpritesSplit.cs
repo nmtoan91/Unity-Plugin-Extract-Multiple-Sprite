@@ -1,11 +1,17 @@
-﻿#if UNITY_EDITOR
+﻿/*Author: toanstt or nmtoan91
+ * Homepage: https://github.com/nmtoan91/Unity-Plugin-Extract-Multiple-Sprite
+ * STGAME
+ * 2014
+ */
+
+#if UNITY_EDITOR
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 using System.IO;
 using System.Text;
-/*toan_stt */
+
 public class MultipleSpritesSplit : MonoBehaviour {
 
 	// Use this for initialization
